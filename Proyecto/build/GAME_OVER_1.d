@@ -1,0 +1,1 @@
+GAME_OVER_1.o: GAME_OVER_1.s
